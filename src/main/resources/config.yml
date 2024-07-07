@@ -1,0 +1,25 @@
+############################
+#       DEVSMARKET.EU      #
+# ScreenShare Free Plugin  #
+############################
+
+# Author of Idea for this plugin: https://www.youtube.com/watch?v=mblXXy5hjM0&t
+# Plugin author: 0WhiteDev
+
+# Screen settings:
+# height value is your real screen height
+# width value is your real screen width
+height: 1080
+width: 1920
+
+# compressX an compressY is scaling the size of the rendered window in the X and Y axes
+compressX: 8
+compressY: 6
+
+# frame_render_delay is delay between new frame render (Min value is 1) (20 = 1 sec)
+# WARNING: Small values can make your server laggy, keep it high
+frame_render_delay: 20
+
+# Pixel Char is a char that pretends to be a pixel in your minecraft screen
+# You can also try to use this char "█"
+pixel_char: "■"

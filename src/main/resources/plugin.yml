@@ -1,0 +1,12 @@
+name: ScreenPlugin
+version: '${project.version}'
+main: eu.devsmarket.screenshare.ScreenPlugin
+api-version: '1.21'
+authors: [ 0WhiteDev ]
+description: ScreenShare Plugin
+website: https://devsmarket.eu
+commands:
+  screen:
+    description: Command to manage screen
+    permission: screenshare.admin
+
